@@ -1,2 +1,2 @@
 # MLearnSwift
-Machine learning library for Swift - SciKit-Learn inspired classification, regression, clustering, and preprocessing
+Machine learning library for Swift - Classification, regression, clustering, and preprocessing
